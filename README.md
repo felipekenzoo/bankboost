@@ -27,6 +27,14 @@ Este projeto foi incrivelmente edificante. A lição mais valiosa que tiro é a 
 
 ---
 
+## 🌐 Acesse o Projeto Online
+
+Você pode visualizar a landing page do Bankboost em funcionamento através do link abaixo:
+
+[**Acesse Bankboost Online**](https://bankboost-knz.netlify.app)
+
+---
+
 ## ⚙️ Como Rodar o Projeto Localmente
 
 Quer ver como essa landing page funciona na prática? Siga estes passos rápidos:
