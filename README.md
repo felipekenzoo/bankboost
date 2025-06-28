@@ -43,20 +43,14 @@ Você pode visualizar a landing page do Bankboost em funcionamento através do l
 
 ## ⚙️ Como Rodar o Projeto Localmente
 
-Quer ver como essa landing page funciona na prática? Siga estes passos rápidos:
+Quer testar na sua máquina? É rápido:
 
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/felipekenzoo/bankboost.git](https://github.com/felipekenzoo/bankboost.git)
-    ```
+```bash
+git clone https://github.com/felipekenzoo/bankboost.git
+cd bankboost 
+```
 
-2.  **Navegue até a pasta do projeto:**
-    ```bash
-    cd nome-do-seu-repositorio
-    ```
-
-3.  **Abra o arquivo `index.html` no seu navegador:**
-    Simplesmente clique duas vezes no arquivo `index.html` ou arraste-o para a janela do seu navegador.
+Depois, é só abrir o arquivo index.html no navegador. Pode arrastar ou clicar duas vezes.
 
 ---
 
