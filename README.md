@@ -1,33 +1,39 @@
-# 🚀 Bankboost: Landing Page de Banco Digital (Codeboost Project)
+## 🚀 Bankboost — Landing Page de Banco Digital
+Projeto do curso Codeboost
 
-Este projeto marca um passo importante na minha jornada de desenvolvimento front-end: a codificação da landing page do **Bankboost**, um banco digital fictício, como parte do meu aprendizado no curso #Codeboost. O objetivo principal foi aprofundar minhas habilidades de **análise de estrutura de sites** e a **codificação robusta em HTML e CSS**, além de uma **introdução prática ao JavaScript**.
+Esse projeto marca um ponto importante na minha jornada no front-end. A ideia foi simples, mas desafiadora: transformar o layout de um banco digital fictício (Bankboost) em uma landing page 100% funcional, usando HTML, CSS, JavaScript e Sass. Faz parte do curso Codeboost, e foi onde eu comecei a aplicar, de verdade, conceitos que vão além do design.
 
-## ✨ Tecnologias Utilizadas
+## 🛠️ Tecnologias e Ferramentas
+HTML5: Estrutura semântica e acessível do conteúdo. A base.
 
-* **HTML5:** Estrutura semântica e acessível do conteúdo, a base sólida para o projeto.
-* **CSS3:** Estilização completa, com foco em uma **responsividade fluida** para adaptar a interface a qualquer dispositivo.
-* **JavaScript:** Pequenas interações para aprimorar a experiência do usuário e dar vida à interface.
-* **Sass (SCSS):** Utilizado para organizar e otimizar o CSS, garantindo um código mais claro, modular e fácil de manter.
+CSS3: Estilização completa, focando numa responsividade fluida.
 
----
+JavaScript: Interações pontuais pra melhorar a experiência do usuário.
 
-## 🎯 O Desafio da Codificação e Meu Processo
-
-Mesmo com aulas bem estruturadas, o processo de codificar o design existente do Bankboost foi um desafio instigante. Cada linha de código foi pensada para traduzir o visual em uma solução funcional e eficiente. Meu olhar como UI Designer me guiou para garantir que cada pixel e interação estivessem no lugar certo, como um *headshot* certeiro em um FPS – precisão é tudo.
-
-Para manter o código tão **claro e objetivo** quanto minhas entregas, utilizei **Sass**. Esse pré-processador foi fundamental para organizar o CSS de forma mais limpa e escalável, refletindo minha busca por evitar retrabalho e focar em entregas que respeitem o tempo do time.
+Sass (SCSS): Organização e escalabilidade no CSS. Ajudou muito a manter o código limpo e modular.
 
 ---
 
-## 💡 Destaques Técnicos e Aprendizados Valiosos
+## 🎯 Processo e Desafios
+Mesmo com aulas guiadas, codificar do zero e transformar o layout em algo funcional exigiu atenção total aos detalhes. Como designer de interfaces, minha preocupação era garantir que cada elemento tivesse o comportamento e a aparência certos — e isso exige muito mais do que só deixar “bonito”.
 
-O maior destaque técnico do projeto é, sem dúvida, a **combinação de uma responsividade bem executada com microinterações que enriquecem a experiência do usuário**. Não é só sobre a tela se ajustar; é sobre ela *responder* e *encantar*.
+Usei o Sass pra manter tudo organizado, evitando retrabalho e criando um fluxo de código mais inteligente. Foi como montar uma estratégia em um jogo de tiro: cada decisão no código precisava ser pensada pra funcionar em conjunto, sem sobrecarregar a estrutura.
+---
 
-Este projeto foi incrivelmente edificante. A lição mais valiosa que tiro é a clareza cristalina de que **organizar, limpar o código e focar na responsividade e em microinterações faz toda a diferença**. Essa experiência solidificou minha visão mais técnica na análise da estrutura do site antes mesmo de começar a codificar, transformando a forma como vejo e abordo a construção de interfaces. É como planejar uma estratégia em um jogo: a execução perfeita depende da visão prévia.
+## 💡 O Que Aprendi
+O grande aprendizado foi sobre estrutura e antecipação. Antes de sair codando, parei pra entender o que fazia sentido ser componente, o que podia virar variável no Sass e onde as interações fariam mais sentido. Isso mudou minha forma de olhar pra construção de interfaces.
+
+Destaques:
+
+Responsividade bem resolvida.
+
+Microinterações que realmente agregam.
+
+Código limpo, organizado e fácil de manter.
 
 ---
 
-## 🌐 Acesse o Projeto Online
+## 🌐 Acesse o Projeto
 
 Você pode visualizar a landing page do Bankboost em funcionamento através do link abaixo:
 
