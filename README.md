@@ -15,9 +15,8 @@ Sass (SCSS): Organização e escalabilidade no CSS. Ajudou muito a manter o cód
 ---
 
 ## 🎯 Processo e Desafios
-Mesmo com aulas guiadas, codificar do zero e transformar o layout em algo funcional exigiu atenção total aos detalhes. Como designer de interfaces, minha preocupação era garantir que cada elemento tivesse o comportamento e a aparência certos — e isso exige muito mais do que só deixar “bonito”.
+Mesmo com aulas guiadas, codificar do zero e transformar o layout em algo funcional exigiu atenção total aos detalhes.
 
-Usei o Sass pra manter tudo organizado, evitando retrabalho e criando um fluxo de código mais inteligente. Foi como montar uma estratégia em um jogo de tiro: cada decisão no código precisava ser pensada pra funcionar em conjunto, sem sobrecarregar a estrutura.
 ---
 
 ## 💡 O Que Aprendi
